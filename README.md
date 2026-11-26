@@ -13,3 +13,4 @@ pandas
 Websites used:
 https://huggingface.co/datasets/Tobi-Bueck/customer-support-tickets - for the "customer-support-tickets" dataset
 https://medium.com/@prasanth32888/op-50-pandas-commands-you-should-know-136e62b8f9be - for pandas commands
+https://docs.python.org/3/library/sqlite3.html - for SQLite commands
